@@ -64,6 +64,7 @@ java -Xprofoption has been removed. This was used to profile and send output to 
 #### GC updates
 #### Thread Local handshakes
 
+    **Refer Tests under test directory**
 
 Links
 https://openjdk.java.net/projects/jdk/10/
